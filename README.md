@@ -2,7 +2,7 @@
 
 # 响应式网站
 ## 项目截图
-<img src="img/home.png" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/homeSmall.png" width="40%"/>
+<img src="img/homeSmall.png" width="40%"/>
 
 ## 涉及技术
 > 弹性布局、媒体查询、自适应图片、轮播图
