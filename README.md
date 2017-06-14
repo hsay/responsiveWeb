@@ -13,7 +13,7 @@
 <head>
 <style>
     h1{
-        color:red;
+        color:green;
     }
     @media only screen and (max-width: 400px) {
     body {
